@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/CombMath.cpp
+CombMath.h
+C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/CombMath.h
+
+C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/CombMath.h
+assert.h
+-
+

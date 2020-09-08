@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LemmeGetDat_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\src\UnitTests\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LemmeGetDat_">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/LemmeGetDat_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src"/>
+					<Add directory="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/UnitTests"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 LemmeGetDat_"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LemmeGetDat_/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/LemmeGetDat_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src"/>
+					<Add directory="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/UnitTests"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 LemmeGetDat_/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BestHand">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/BestHand.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 BestHand"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BestHand/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/BestHand.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 BestHand/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Card">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/Card.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 Card"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Card/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/Card.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 Card/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Random">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/Random.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 Random"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Random/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/Random.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 Random/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CombMath">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/CombMath.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 CombMath"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CombMath/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/CombMath.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 CombMath/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Deck">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/Deck.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 Deck"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Deck/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/Deck.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 Deck/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="InfoSet">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/InfoSet.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 InfoSet"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="InfoSet/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/InfoSet.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 InfoSet/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PokerSim">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/PokerSim.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 PokerSim"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PokerSim/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/PokerSim.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 PokerSim/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PokerCards">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/PokerCards.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 PokerCards"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PokerCards/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/PokerCards.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 PokerCards/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ranged2DArray">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/Ranged2DArray.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 Ranged2DArray"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ranged2DArray/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/Ranged2DArray.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 Ranged2DArray/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Table">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/Table.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 Table"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Table/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/Table.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 Table/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="WinProb">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/WinProb.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 WinProb"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="WinProb/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/WinProb.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 WinProb/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EquityCalc">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests/EquityCalc.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 EquityCalc"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EquityCalc/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests/EquityCalc.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 EquityCalc/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TestBestHand">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests/TestBestHand.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 TestBestHand"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TestBestHand/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests/TestBestHand.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 TestBestHand/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TestDeck">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests/TestDeck.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 TestDeck"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TestDeck/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests/TestDeck.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 TestDeck/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TestInfoSet">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests/TestInfoSet.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 TestInfoSet"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TestInfoSet/fast">
+				<Option output="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests/TestInfoSet.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Aidan/CLionProjects/LemmeGetDat$/cmake-build-debug/src/UnitTests"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 TestInfoSet/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Aidan\CLionProjects\LemmeGetDat$\cmake-build-debug\src\UnitTests\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/Main.cpp">
+			<Option target="LemmeGetDat_"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/BestHand.cpp">
+			<Option target="BestHand"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/BestHand.h">
+			<Option target="BestHand"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/Card.cpp">
+			<Option target="Card"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/Card.h">
+			<Option target="Card"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/CombMath.cpp">
+			<Option target="CombMath"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/CombMath.h">
+			<Option target="CombMath"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/Deck.cpp">
+			<Option target="Deck"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/Deck.h">
+			<Option target="Deck"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/InfoSet.cpp">
+			<Option target="InfoSet"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/InfoSet.h">
+			<Option target="InfoSet"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/PokerCards.cpp">
+			<Option target="PokerCards"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/PokerCards.h">
+			<Option target="PokerCards"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/PokerSim.cpp">
+			<Option target="PokerSim"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/PokerSim.h">
+			<Option target="PokerSim"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/Random.cpp">
+			<Option target="Random"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/Random.h">
+			<Option target="Random"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/Ranged2DArray.cpp">
+			<Option target="Ranged2DArray"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/Ranged2DArray.h">
+			<Option target="Ranged2DArray"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/Table.cpp">
+			<Option target="Table"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/Table.h">
+			<Option target="Table"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/UnitTests/EquityCalc.cpp">
+			<Option target="EquityCalc"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/UnitTests/EquityCalc.h">
+			<Option target="EquityCalc"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/UnitTests/TestBestHand.cpp">
+			<Option target="TestBestHand"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/UnitTests/TestBestHand.h">
+			<Option target="TestBestHand"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/UnitTests/TestDeck.cpp">
+			<Option target="TestDeck"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/UnitTests/TestDeck.h">
+			<Option target="TestDeck"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/UnitTests/TestInfoSet.cpp">
+			<Option target="TestInfoSet"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/UnitTests/TestInfoSet.h">
+			<Option target="TestInfoSet"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/WinProb.cpp">
+			<Option target="WinProb"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/Aidan/CLionProjects/LemmeGetDat$/src/UnitTests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\UnitTests\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
